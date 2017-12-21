@@ -1999,6 +1999,10 @@
 				padding: 0;
 			}
 
+		.button scrolly {
+			    background: rgba( 255, 255, 255, 0.3 );
+		}
+
 /* Table */
 
 	table {
