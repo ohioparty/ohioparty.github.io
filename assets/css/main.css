@@ -1999,7 +1999,7 @@
 				padding: 0;
 			}
 
-		.button scrolly {
+		a.button.scrolly {
 			    background: rgba( 255, 255, 255, 0.3 ) !important;
 		}
 
